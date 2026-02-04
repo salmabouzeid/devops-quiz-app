@@ -68,6 +68,76 @@
         ],
         "answerIndex": 2,
         "explanation": "Automated tests validate code changes and help maintain quality during frequent integrations."
+      },
+
+      {
+        "id": "Q6",
+        "topic": "The DevOps Culture",
+        "question": "What is the main focus of DevOps culture?",
+        "options": [
+          "Strict hierarchy",
+          "Collaboration between teams",
+          "Individual performance",
+          "Manual processes"
+        ],
+        "answerIndex": 1,
+        "explanation": "DevOps culture focuses on collaboration between development and operations teams."
+      },
+
+      {
+        "id": "Q7",
+        "topic": "The DevOps Culture",
+        "question": "Which principle is encouraged in DevOps culture?",
+        "options": [
+          "Blame for failures",
+          "Continuous learning",
+          "Isolated teams",
+          "Delayed feedback"
+        ],
+        "answerIndex": 1,
+        "explanation": "Continuous learning helps teams improve processes and systems."
+      },
+
+      {
+        "id": "Q8",
+        "topic": "The DevOps Culture",
+        "question": "What does 'shared responsibility' mean in DevOps?",
+        "options": [
+          "Only developers are responsible",
+          "Only operations are responsible",
+          "Teams share ownership of success and failure",
+          "Management handles all issues"
+        ],
+        "answerIndex": 2,
+        "explanation": "DevOps promotes shared ownership across teams."
+      },
+
+      {
+        "id": "Q9",
+        "topic": "The DevOps Culture",
+        "question": "Why is feedback important in DevOps?",
+        "options": [
+          "To slow down releases",
+          "To improve collaboration and quality",
+          "To avoid automation",
+          "To reduce transparency"
+        ],
+        "answerIndex": 1,
+        "explanation": "Fast feedback helps teams detect issues early and improve quality."
+      },
+
+      {
+        "id": "Q10",
+        "topic": "The DevOps Culture",
+        "question": "Which practice supports DevOps culture?",
+        "options": [
+          "Siloed teams",
+          "Manual deployments",
+          "Continuous improvement",
+          "Rare releases"
+        ],
+        "answerIndex": 2,
+        "explanation": "Continuous improvement is a key DevOps cultural practice."
       }
   ]
   
