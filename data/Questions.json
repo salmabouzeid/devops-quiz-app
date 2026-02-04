@@ -138,6 +138,77 @@
         ],
         "answerIndex": 2,
         "explanation": "Continuous improvement is a key DevOps cultural practice."
+      },
+
+      {
+        "id": "Q11",
+        "topic": "Version Control Systems",
+        "question": "What is the main purpose of version control systems?",
+        "options": [
+          "Deploy applications",
+          "Monitor servers",
+          "Track and manage code changes",
+          "Run tests"
+        ],
+        "answerIndex": 2,
+        "explanation": "Version control systems help track and manage changes to code."
+      },
+
+      {
+        "id": "Q12",
+        "topic": "Version Control Systems",
+        "question": "Which tool is a distributed version control system?",
+        "options": [
+          "Git",
+          "SVN",
+          "FTP",
+          "Jenkins"
+        ],
+        "answerIndex": 0,
+        "explanation": "Git is a distributed version control system."
+      },
+
+      {
+        "id": "Q13",
+        "topic": "Version Control Systems",
+        "question": "What is a Git branch?",
+        "options": [
+          "A backup of the repository",
+          "A separate line of development",
+          "A deployment pipeline",
+          "A server instance"
+        ],
+        "answerIndex": 1,
+        "explanation": "Branches allow independent development without affecting the main codebase."
+      },
+
+      {
+        "id": "Q14",
+        "topic": "Version Control Systems",
+        "question": "What does a commit represent in Git?",
+        "options": [
+          "A deployment",
+          "A saved snapshot of changes",
+          "A pull request",
+          "A merge conflict"
+        ],
+        "answerIndex": 1,
+        "explanation": "A commit records a snapshot of changes in the repository."
+      },
+
+      {
+        "id": "Q15",
+        "topic": "Version Control Systems",
+        "question": "Why are pull requests important?",
+        "options": [
+          "They delete code",
+          "They allow code review before merging",
+          "They replace version control",
+          "They stop collaboration"
+        ],
+        "answerIndex": 1,
+        "explanation": "Pull requests enable review and discussion before merging changes."
       }
+
   ]
   
