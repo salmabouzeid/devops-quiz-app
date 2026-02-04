@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DevOps Quiz</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>DevOps Quiz</h1>
+
+    <!-- Topic selection -->
+    <label for="topicSelect">Choose a topic:</label>
+    <select id="topicSelect">
+        <option disabled selected>Select a topic</option>
+    </select>
+
+    <!-- Quiz container (hidden until a topic is chosen) -->
+    <section id="quizBox" class="hidden">
+        <p id="question"></p>
+        <div id="options"></div>
+        <p id="feedback"></p>
+    </section>
+
+    <script src="app.js"></script>
+</body>
+</html>
