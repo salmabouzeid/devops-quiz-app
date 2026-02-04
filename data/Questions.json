@@ -208,6 +208,76 @@
         ],
         "answerIndex": 1,
         "explanation": "Pull requests enable review and discussion before merging changes."
+      },
+
+      {
+        "id": "Q16",
+        "topic": "Plan with DevOps",
+        "question": "What is the goal of planning in DevOps?",
+        "options": [
+          "Delay releases",
+          "Align work with business goals",
+          "Avoid feedback",
+          "Remove automation"
+        ],
+        "answerIndex": 1,
+        "explanation": "Planning ensures development aligns with business objectives."
+      },
+
+      {
+        "id": "Q17",
+        "topic": "Plan with DevOps",
+        "question": "Which tool is commonly used for DevOps planning?",
+        "options": [
+          "Jira",
+          "Docker",
+          "Ansible",
+          "Kubernetes"
+        ],
+        "answerIndex": 0,
+        "explanation": "Jira is widely used for planning and tracking DevOps work."
+      },
+
+      {
+        "id": "Q18",
+        "topic": "Plan with DevOps",
+        "question": "What is a backlog?",
+        "options": [
+          "A list of completed tasks",
+          "A prioritized list of work items",
+          "A deployment script",
+          "A monitoring tool"
+        ],
+        "answerIndex": 1,
+        "explanation": "A backlog contains prioritized tasks and features."
+      },
+
+      {
+        "id": "Q19",
+        "topic": "Plan with DevOps",
+        "question": "Why is continuous planning important in DevOps?",
+        "options": [
+          "Requirements never change",
+          "It supports adapting to change",
+          "It slows delivery",
+          "It removes documentation"
+        ],
+        "answerIndex": 1,
+        "explanation": "Continuous planning allows teams to adapt to feedback and change."
+      },
+
+      {
+        "id": "Q20",
+        "topic": "Plan with DevOps",
+        "question": "Which practice improves DevOps planning?",
+        "options": [
+          "Infrequent reviews",
+          "Siloed decision-making",
+          "Regular sprint reviews",
+          "Manual reporting only"
+        ],
+        "answerIndex": 2,
+        "explanation": "Sprint reviews help teams inspect progress and adjust plans."
       }
 
   ]
