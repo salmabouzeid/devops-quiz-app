@@ -1,0 +1,73 @@
+[
+    {
+      "id": "Q1",
+      "topic": "Continuous Integration",
+      "question": "What is the primary goal of Continuous Integration?",
+      "options": [
+        "Automatically deploy to production",
+        "Frequently integrate code changes into a shared repository",
+        "Eliminate the need for testing",
+        "Remove the need for branches"
+      ],
+      "answerIndex": 1,
+      "explanation": "Continuous Integration aims to detect integration issues early."
+    },
+
+
+    {
+        "id": "Q2",
+        "topic": "Continuous Integration",
+        "question": "Which action usually triggers a Continuous Integration pipeline?",
+        "options": [
+          "Server restart",
+          "Code commit or push",
+          "User login",
+          "Manual deployment"
+        ],
+        "answerIndex": 1,
+        "explanation": "CI pipelines are commonly triggered when code is committed or pushed to the repository."
+      },
+
+      {
+        "id": "Q3",
+        "topic": "Continuous Integration",
+        "question": "What is a key benefit of Continuous Integration?",
+        "options": [
+          "Longer development cycles",
+          "Faster feedback on code changes",
+          "Fewer code reviews",
+          "Manual testing only"
+        ],
+        "answerIndex": 1,
+        "explanation": "CI provides rapid feedback, allowing teams to fix issues early."
+      },
+
+      {
+        "id": "Q4",
+        "topic": "Continuous Integration",
+        "question": "Which tool is commonly used for Continuous Integration?",
+        "options": [
+          "Jenkins",
+          "Docker",
+          "Git",
+          "Slack"
+        ],
+        "answerIndex": 0,
+        "explanation": "Jenkins is a widely used automation server for CI pipelines."
+      },
+
+      {
+        "id": "Q5",
+        "topic": "Continuous Integration",
+        "question": "Why are automated tests important in Continuous Integration?",
+        "options": [
+          "They slow down the pipeline",
+          "They replace manual testers",
+          "They help ensure code quality on every change",
+          "They remove the need for version control"
+        ],
+        "answerIndex": 2,
+        "explanation": "Automated tests validate code changes and help maintain quality during frequent integrations."
+      }
+  ]
+  
